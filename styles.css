@@ -18,9 +18,12 @@ img{
   height:300px;
   width:70%;
 }
-h1{
+.heading{
   color:#001D6E;
   font-size:80px;
+}
+h1:hover{
+  color:green;
 }
 h3{
   color:#001D6E;
