@@ -10,6 +10,15 @@ hr{
   border-width:5px;
 
 }
+ .mytable,th,.m{
+    border:1px solid black ;
+    border-radius:10px;
+      background-color:black;
+      
+    }
+    .m,th{
+      background-color:#FFFFBF;
+    }
 
 .profile{
   height:350px;
