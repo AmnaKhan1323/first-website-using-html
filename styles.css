@@ -10,14 +10,7 @@ hr{
   border-width:5px;
 
 }
-mytable{
-  border-style:dotted none none;
-  border-color:black;
-  border-width:5px;
-}
-table{
-  background-color:#ADD8E6;
-}
+
 .profile{
   height:350px;
   width:100%;
