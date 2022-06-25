@@ -10,13 +10,13 @@ hr{
   border-width:5px;
 
 }
- .mytable,th,.m{
+ table ,th,td{
     border:1px solid black ;
     border-radius:10px;
       background-color:black;
       
     }
-    .m,th{
+    th,td{
       background-color:#FFFFBF;
     }
 
