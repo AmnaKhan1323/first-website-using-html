@@ -17,7 +17,7 @@ hr{
 }
 
 .heading{
-  color:#F7418E;
+  color:black;
   font-size:80px;
 }
 h3{
@@ -25,7 +25,7 @@ h3{
   font-size:30px;
 }
 h1:hover{
-  color:Black;
+  color:#F7418E;
 }
 h3:hover{
   color:Black;
