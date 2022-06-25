@@ -13,11 +13,15 @@ hr{
  table ,th,td{
     border:1px solid black ;
     border-radius:10px;
-      background-color:black;
+      
       
     }
+table{
+  background-color:black;
+}
+
     th,td{
-      background-color:#FFFFBF;
+      background-color:#D3D3D3;
     }
 
 .profile{
