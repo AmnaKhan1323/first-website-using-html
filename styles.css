@@ -10,6 +10,9 @@ hr{
   border-width:5px;
 
 }
+table{
+  background-color:white;
+}
 .profile{
   height:250px;
   width:100%;
