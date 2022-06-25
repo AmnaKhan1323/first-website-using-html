@@ -19,7 +19,7 @@ table{
 }
 
 .heading{
-  color:#001D6E;
+  color:#F7418E;
   font-size:80px;
 }
 h3{
@@ -27,7 +27,7 @@ h3{
   font-size:30px;
 }
 h1:hover{
-  color:#F7418E;
+  color:#001D6E;
 }
 h3:hover{
   color:#F7418E;
