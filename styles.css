@@ -3,6 +3,8 @@ body{
 }
 .backg{
 background-color:#E4F9F5;
+  height:200px;
+  width:200px;
 }
 hr{
   background-color:white;
